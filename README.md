@@ -1,5 +1,9 @@
+<h1 align="center">
+<img alt="move.it" title="move.it" src="https://github.com/agftech/nlw-04-reactjs-moveit/blob/main/.github/custom-nlw-04-move-it.svg" width="625px" />
+</h1>
+
 <h2 align="center">
-<img src="https://img.shields.io/badge/Project developed during the -NLW 4.0 REACTJS TRAIL by 🚀 Rocketseat-4953B8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Project developed during the -NLW 4.0 ReactJS TRAIL by 🚀 Rocketseat-4953B8?style=for-the-badge"/>
 </h2>
 
 <p align="center">	
@@ -19,7 +23,7 @@
   <img alt="by AGFTech" src="https://img.shields.io/badge/made%20by-AGFTECH's-4953B8">
   </a>
   <a aria-label="Completed" href="https://nextlevelweek.com/episodios/react/1/edicao/4">
-   <img alt="NLW 4.0" src="https://img.shields.io/badge/ NLW 4.0 REACTJS Trail-MoveIt-4953B8">
+   <img alt="NLW 4.0" src="https://img.shields.io/badge/ NLW 4.0 ReactJS Trail-Move.It-4953B8">
   </a>
 </p>
 
