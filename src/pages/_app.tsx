@@ -1,4 +1,4 @@
-import '../styles/global.css'; /* para todas as páginas */
+import '../styles/global.css';
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />;
