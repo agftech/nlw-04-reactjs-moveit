@@ -50,7 +50,7 @@
 > ## :handshake: _**Contribute**_:
 > 1. *Fork this repository `https://github.com/agftech/nlw-04-reactjs-moveit`;*
 > 2. *Clone the fork to your machine `https://github.com/agftech/nlw-04-reactjs-moveit`;*
-> 3. *Create a branck with your feature: `git checkout -b name-feature`;*
+> 3. *Create a branch with your feature: `git checkout -b name-feature`;*
 > 4. *Commit your changes: `git commit -m 'feat: 'name' new feature'`;*
 > 5. *Make a push to your branch: `git push origin name-feature`*;
 > 6. *Create a new Pull Request.*
