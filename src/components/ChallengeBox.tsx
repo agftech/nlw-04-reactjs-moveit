@@ -12,6 +12,12 @@ export function ChallengeBox() {
     resetChallenge();
     resetCountdown();
   }
+
+  function handleChallengeSucceeded() {
+    completeChallenge();
+    resetCountdown();
+  }
+
   return (
     <div className={styles.challengeBoxContainer}>
       {activeChallenge ? (
@@ -35,7 +41,7 @@ export function ChallengeBox() {
             <button
               type="button"
               className={styles.challengeSucceededButton}
-              onClick={completeChallenge}
+              onClick={handleChallengeSucceeded}
             >
               Completed
             </button>
