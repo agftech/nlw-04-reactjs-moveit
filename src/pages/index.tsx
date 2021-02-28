@@ -11,14 +11,14 @@ import styles from '../styles/pages/Home.module.css'
 
 export default function Home() {
   return (
-    <main className={styles.container}>
-      <Head>
-        <title>Home | move.it</title>
-      </Head>
+    <CountdownProvider>
+      <main className={styles.container}>
+        <Head>
+          <title>Home | move.it</title>
+        </Head>
 
-      <ExperienceBar />
+        <ExperienceBar />
 
-      <CountdownProvider>
         <section>
           <div>
             <Profile />
@@ -29,7 +29,7 @@ export default function Home() {
             <ChallengeBox />
           </div>
         </section>
-      </CountdownProvider>
-    </main>
+      </main>
+    </CountdownProvider>
   )
 }
