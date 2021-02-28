@@ -38,11 +38,19 @@
 >
 > ## :package: _**Summary**_:
 >
+> | Type  | Technologies                                                                                         | Codes
+> | --------- | ---------------------------------------------------------------------------------------------------- | -----------------------
+> | <img src="https://img.shields.io/badge/Web%3F-yes-ffd666?" alt="Web yes" /> | [<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3"/>](http://www.w3.org/TR/css3-roadmap/) + [<img src="https://img.shields.io/badge/NextJS-007ACC?logo=next.js"/>](https://nextjs.org/) + [<img src="https://img.shields.io/badge/ReactJS-000000?logo=react"/>](https://reactjs.org/) + [<img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript"/>](https://www.typescriptlang.org/) | :computer: [`Web`](https://github.com/agftech/nlw-04-reactjs-moveit)
+>
 > ---
 
 > ---
 >
 > ## :rocket: _**Technologies**_:
+> #### :computer: `Web:`
+> - <a href="https://nextjs.org/"><img alt="nextJS" align="center" src="https://img.shields.io/badge/-NextJS-gray.svg?color=6A788D&style=for-the-badge" /></a> 
+> - <a href="https://reactjs.org/"><img alt="react" align="center" src="https://img.shields.io/badge/-reactJS-gray.svg?color=6A788D&style=for-the-badge" /></a>
+> - <a href="https://www.typescriptlang.org/"><img alt="typescript" align="center" src="https://img.shields.io/badge/-typescript-gray.svg?color=6A788D&style=for-the-badge" /></a>
 >
 > ---
 
