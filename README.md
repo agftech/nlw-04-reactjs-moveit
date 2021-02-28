@@ -7,10 +7,10 @@
 </h2>
 
 <p align="center">	
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/agftech/nlw-04-reactjs-moveit?color=5965E0">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/agftech/nlw-04-reactjs-moveit?color=5965E0">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/agftech/nlw-04-reactjs-moveit?color=5965EE">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/agftech/nlw-04-reactjs-moveit?color=5965EE">
   <a href="https://github.com/agftech/nlw-04-reactjs-moveit/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/agftech/nlw-04-reactjs-moveit?color=5965E0">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/agftech/nlw-04-reactjs-moveit?color=5965EE">
   </a> 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-5965E0">
   <a href="https://github.com/agftech/nlw-04-reactjs-moveit/stargazers">
