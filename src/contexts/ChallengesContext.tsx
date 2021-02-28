@@ -57,13 +57,13 @@ export function ChallengesProvider({ children }: ChallengesProviderProps) {
 
     setActiveChallenge(challenge)
 
-    new Audio('/notification.mp3').play();
+    new Audio('/notification.mp3').play()
 
     if (Notification.permission === 'granted') {
       new Notification('New challenge 🎉', {
         body: `Worth  ${challenge.amount} of xp!`,
-        silent: false,
-      });
+        silent: false
+      })
     }
   }
 
