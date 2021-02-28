@@ -32,7 +32,7 @@
     border-left: 1px solid #f0f1f3;
 }
 
-.countdownContainer > div {
+.countdownContainer > span {
     font-size: 6.25rem;
     margin: 0 0.5rem;
 }
