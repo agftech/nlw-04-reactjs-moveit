@@ -11,7 +11,7 @@ import styles from '../styles/pages/Home.module.css'
 
 export default function Home() {
   return (
-    <div className={styles.container}>
+    <main className={styles.container}>
       <Head>
         <title>Home | move.it</title>
       </Head>
@@ -30,6 +30,6 @@ export default function Home() {
           </div>
         </section>
       </CountdownProvider>
-    </div>
+    </main>
   )
 }
