@@ -37,6 +37,8 @@
     "@typescript-eslint/no-non-null-assertion": "off",
     "@typescript-eslint/no-use-before-define": ["error"],
     "camelcase": "off",
+    "no-new": 0,
+    "operator-assignment": ["error", "never"],
     "import/extensions": [
       "error",
       "ignorePackages",
